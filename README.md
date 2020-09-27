@@ -1,1 +1,2 @@
 # stm32f427iih6-linux-Test
+OfficialSite: https://www.st.com/en/microcontrollers-microprocessors/stm32f427-437.html
